@@ -4,7 +4,7 @@
 The purpose of this analysis is to perform an exploratory analysis on data for PyBer, a Python based ride-sharing app. To do so, we create several types of visualizations to tell a compelling story about the data. The analysis and visualizations we produce help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
 ## Resources
 - Data Source: [city_data](Resources/city_data.csv) [ride_data](Resources/ride_data.csv)
-- Software: 
+- Software: Jupyter Notebook, Matplotlib
 
 ## Results
 
